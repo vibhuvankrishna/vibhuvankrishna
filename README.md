@@ -124,6 +124,16 @@ me.ping()
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vibhuvankrishna&bg_color=04060c&color=00e6c3&line=4d8dff&point=b07bff&area=true&hide_border=true&custom_title=Contribution%20graph" alt="activity graph" />
 </div>
 
+## Contribution snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vibhuvankrishna/vibhuvankrishna/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vibhuvankrishna/vibhuvankrishna/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/vibhuvankrishna/vibhuvankrishna/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 ---
 
 <div align="center">
