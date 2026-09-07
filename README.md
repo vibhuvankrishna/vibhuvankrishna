@@ -145,3 +145,6 @@ me.ping()
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00e6c3,4d8dff,b07bff&height=100&section=footer" width="100%" alt="footer" />
 </div>
+
+<!-- quiet note: still shipping, 2026-09-07 -->
+
