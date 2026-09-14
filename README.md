@@ -34,7 +34,7 @@ class QuantDeveloper:
         self.currently = [
             "real-time options pipelines",
             "agentic strategy research (Hermes)",
-            "OMS + vectorized backtesters",
+            "cross-sectional equity QR (AlphaForge)",
         ]
         self.site = "https://vibhuvankrishna.github.io"
 
@@ -146,5 +146,5 @@ me.ping()
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00e6c3,4d8dff,b07bff&height=100&section=footer" width="100%" alt="footer" />
 </div>
 
-<!-- quiet note: still shipping, 2026-09-11 -->
+<!-- quiet note: still shipping, 2026-09-14 -->
 
