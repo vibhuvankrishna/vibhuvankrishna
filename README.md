@@ -1,11 +1,11 @@
 # Hi, I'm Vibhuvan Krishna
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00e6c3,4d8dff,b07bff&height=160&section=header&text=Vibhuvan%20Krishna&fontSize=46&fontAlignY=32&fontColor=e8eef7&desc=Independent%20Trader%20%C2%B7%20Quant%20Researcher%20%26%20Developer%20%7C%20IIT%20(BHU)&descSize=14&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00e6c3,4d8dff,b07bff&height=160&section=header&text=Vibhuvan%20Krishna&fontSize=42&fontAlignY=30&fontColor=e8eef7&desc=Systematic%20independent%20trader%20%C2%B7%20experienced%20with%20quant%20firms%20%7C%20QR%20%26%20QD%20%7C%20IIT%20(BHU)&descSize=13&descAlignY=56&animation=fadeIn" width="100%" alt="header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=00E6C3&center=true&vCenter=true&width=780&lines=Independent+trader+%C2%B7+systematic+%26+discretionary;Quant+research+%7C+regimes+%7C+cross-sectional+alpha;Options+IV+%2F+Greeks+%7C+BSM+%2B+Black-76;Kafka+%2B+Delta+Lake+%2B+live+market+systems" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=00E6C3&center=true&vCenter=true&width=820&lines=Systematic+independent+trader;Experienced+with+quant+firms;Quant+research+%7C+regimes+%7C+cross-sectional+alpha;Options+IV+%2F+Greeks+%7C+BSM+%2B+Black-76" alt="typing" />
 </div>
 
 <br/>
@@ -29,11 +29,12 @@
 class QuantResearcherDeveloper:
     def __init__(self):
         self.name = "Konatala Vibhuvan Krishna"
-        self.role = "Independent Trader · Quant Researcher & Developer"
+        self.role = "Systematic Independent Trader · Quant Researcher & Developer"
         self.school = "IIT (BHU), Varanasi"
+        self.experience = "quant firms (research + production systems)"
         self.languages = ["Python", "C++", "SQL", "Bash"]
         self.currently = [
-            "trading + researching markets end-to-end",
+            "systematic trading + quant research",
             "regime detection research (HMM / BOCPD / XGBoost)",
             "cross-sectional equity QR (AlphaForge)",
             "live IV / Greeks engines (BSM + Black-76)",
@@ -41,7 +42,7 @@ class QuantResearcherDeveloper:
         self.site = "https://vibhuvankrishna.github.io"
 
     def ping(self):
-        print("Decide → research → price → execute. Still shipping that loop.")
+        print("Research → price → execute systematically. Still shipping that loop.")
 
 me = QuantResearcherDeveloper()
 me.ping()
@@ -49,7 +50,7 @@ me.ping()
 
 ### Right now
 
-Independent trader who also ships desk infrastructure: **regime research** at QuantSingularity (with Prof. Shashi Jain, IISc), **AlphaForge** cross-sectional signals, and the **live IV / Greeks** path (BSM + Black-76) that keeps option books honest.
+Systematic independent trader, experienced with quant firms — shipping **regime research** at QuantSingularity (with Prof. Shashi Jain, IISc), **AlphaForge** cross-sectional signals, and the **live IV / Greeks** path (BSM + Black-76) that keeps option books honest.
 
 - **QuantSingularity** — QR on regimes · earlier Data Eng: live Nifty / Bank Nifty / Crude, Kafka–Redpanda, Delta Lake, IV/Greeks (**p50 8 → 0.9 ms**)
 - **SWTS** — client OMS + options backtester; **6B-row** runtime **26 → 6 min (~76%)**
@@ -148,4 +149,4 @@ Independent trader who also ships desk infrastructure: **regime research** at Qu
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00e6c3,4d8dff,b07bff&height=100&section=footer" width="100%" alt="footer" />
 </div>
 
-<!-- profile · independent trader + QR/QD · 2026-09-15 -->
+<!-- profile · systematic independent trader · quant firms · QR/QD · 2026-09-15 -->
