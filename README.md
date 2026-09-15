@@ -1,20 +1,21 @@
 # Hi, I'm Vibhuvan Krishna
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00e6c3,4d8dff,b07bff&height=160&section=header&text=Vibhuvan%20Krishna&fontSize=46&fontAlignY=32&fontColor=e8eef7&desc=Quant%20Developer%20%7C%20IIT%20(BHU)%20Varanasi&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00e6c3,4d8dff,b07bff&height=160&section=header&text=Vibhuvan%20Krishna&fontSize=46&fontAlignY=32&fontColor=e8eef7&desc=Independent%20Trader%20%C2%B7%20Quant%20Researcher%20%26%20Developer%20%7C%20IIT%20(BHU)&descSize=14&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=00E6C3&center=true&vCenter=true&width=740&lines=Building+low-latency+quant+infrastructure;Options+pricing+%7C+IV+%2F+Greeks+%7C+OMS;Kafka+%2B+Delta+Lake+%2B+FastAPI;Agentic+strategy+research+%C2%B7+Alpha+Assembly+Line" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=00E6C3&center=true&vCenter=true&width=780&lines=Independent+trader+%C2%B7+systematic+%26+discretionary;Quant+research+%7C+regimes+%7C+cross-sectional+alpha;Options+IV+%2F+Greeks+%7C+BSM+%2B+Black-76;Kafka+%2B+Delta+Lake+%2B+live+market+systems" alt="typing" />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://vibhuvankrishna.github.io"><img src="https://img.shields.io/badge/Website-vibhuvankrishna.github.io-00e6c3?style=for-the-badge&logo=githubpages&logoColor=white" alt="website" /></a>
-  <a href="mailto:vibhuvankrishna@gmail.com"><img src="https://img.shields.io/badge/Email-vibhuvankrishna@gmail.com-4d8dff?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="https://vibhuvankrishna.github.io/Quant_Researcher_Resume.pdf"><img src="https://img.shields.io/badge/Resume-Quant%20Researcher-4d8dff?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="qr resume" /></a>
+  <a href="https://vibhuvankrishna.github.io/Quant_Developer_Resume.pdf"><img src="https://img.shields.io/badge/Resume-Quant%20Developer-b07bff?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="qd resume" /></a>
+  <a href="mailto:vibhuvankrishna@gmail.com"><img src="https://img.shields.io/badge/Email-vibhuvankrishna@gmail.com-00e6c3?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
   <a href="https://www.linkedin.com/in/vibhuvan-krishna-konatala-38b564315/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="https://github.com/vibhuvankrishna"><img src="https://komarev.com/ghpvc/?username=vibhuvankrishna&label=Profile%20views&color=00e6c3&style=for-the-badge" alt="profile views" /></a>
 </div>
 
 ---
@@ -25,34 +26,36 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-class QuantDeveloper:
+class QuantResearcherDeveloper:
     def __init__(self):
         self.name = "Konatala Vibhuvan Krishna"
-        self.role = "Quant Developer · Deep Learning Engineer"
+        self.role = "Independent Trader · Quant Researcher & Developer"
         self.school = "IIT (BHU), Varanasi"
         self.languages = ["Python", "C++", "SQL", "Bash"]
         self.currently = [
-            "live IV / Greeks engines (BSM + Black-76)",
-            "real-time options pipelines on Kafka + Delta",
-            "agentic strategy research (Hermes)",
+            "trading + researching markets end-to-end",
+            "regime detection research (HMM / BOCPD / XGBoost)",
             "cross-sectional equity QR (AlphaForge)",
+            "live IV / Greeks engines (BSM + Black-76)",
         ]
         self.site = "https://vibhuvankrishna.github.io"
 
     def ping(self):
-        print("Thanks for dropping by — still shipping: latency, pricing rigor, and clean systems.")
+        print("Decide → research → price → execute. Still shipping that loop.")
 
-me = QuantDeveloper()
+me = QuantResearcherDeveloper()
 me.ping()
 ```
 
 ### Right now
 
-Documenting and hardening the **live Greeks path** — implied vol solve, trader-unit conventions, and the BSM vs Black-76 split for index vs crude — so the math stays explainable while the pipe stays fast.
+Independent trader who also ships desk infrastructure: **regime research** at QuantSingularity (with Prof. Shashi Jain, IISc), **AlphaForge** cross-sectional signals, and the **live IV / Greeks** path (BSM + Black-76) that keeps option books honest.
 
-- **QuantSingularity** — live Nifty / Bank Nifty / Crude ingest, Kafka–Redpanda bus, Delta Lake, IV/Greeks engine (p50 **8 → 0.9 ms**)
-- **SWTS** — client OMS + OOP options backtester; **6B-row** runtime **26 → 6 min (~76%)**
+- **QuantSingularity** — QR on regimes · earlier Data Eng: live Nifty / Bank Nifty / Crude, Kafka–Redpanda, Delta Lake, IV/Greeks (**p50 8 → 0.9 ms**)
+- **SWTS** — client OMS + options backtester; **6B-row** runtime **26 → 6 min (~76%)**
 - **IIT BHU** — Quant Club lead (Quant League **5th globally**, Q4 2024) · Research Club tech lead
+
+**Resumes:** [Quant Researcher](https://vibhuvankrishna.github.io/Quant_Researcher_Resume.pdf) · [Quant Developer](https://vibhuvankrishna.github.io/Quant_Developer_Resume.pdf)
 
 ---
 
@@ -63,14 +66,14 @@ Documenting and hardening the **live Greeks path** — implied vol solve, trader
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Options%20IV%20%2F%20Greeks-00e6c3?style=for-the-badge&logo=python&logoColor=black" alt="greeks" />
+  <img src="https://img.shields.io/badge/Regime%20Research-4d8dff?style=for-the-badge&logo=plotly&logoColor=white" alt="regime" />
   <img src="https://img.shields.io/badge/Kafka%2FRedpanda-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="kafka" />
   <img src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge&logo=databricks&logoColor=white" alt="delta" />
   <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" alt="duckdb" />
   <img src="https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=python&logoColor=white" alt="numba" />
   <img src="https://img.shields.io/badge/Polars-0B3D91?style=for-the-badge&logo=python&logoColor=white" alt="polars" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="mlflow" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="prom" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="grafana" />
+  <img src="https://img.shields.io/badge/VectorBT-111111?style=for-the-badge&logo=python&logoColor=white" alt="vectorbt" />
 </p>
 
 ---
@@ -78,32 +81,26 @@ Documenting and hardening the **live Greeks path** — implied vol solve, trader
 ## Featured work
 
 <div align="center">
+  <a href="https://github.com/vibhuvankrishna/AlphaForge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vibhuvankrishna&repo=AlphaForge&theme=transparent&hide_border=true&bg_color=04060c&title_color=00e6c3&text_color=e8eef7&icon_color=4d8dff" alt="AlphaForge" />
+  </a>
   <a href="https://github.com/vibhuvankrishna/Alpha-Assembly-line">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vibhuvankrishna&repo=Alpha-Assembly-line&theme=transparent&hide_border=true&bg_color=04060c&title_color=00e6c3&text_color=e8eef7&icon_color=4d8dff" alt="Alpha Assembly Line" />
   </a>
-  <a href="https://github.com/vibhuvankrishna/load-balancer-from-scratch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vibhuvankrishna&repo=load-balancer-from-scratch&theme=transparent&hide_border=true&bg_color=04060c&title_color=00e6c3&text_color=e8eef7&icon_color=4d8dff" alt="Load balancer" />
-  </a>
 </div>
 <div align="center">
-  <a href="https://github.com/vibhuvankrishna/MonteCarloPortfolioRiskAnalyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vibhuvankrishna&repo=MonteCarloPortfolioRiskAnalyzer&theme=transparent&hide_border=true&bg_color=04060c&title_color=00e6c3&text_color=e8eef7&icon_color=4d8dff" alt="Monte Carlo" />
-  </a>
   <a href="https://github.com/vibhuvankrishna/paper_trading_engine">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vibhuvankrishna&repo=paper_trading_engine&theme=transparent&hide_border=true&bg_color=04060c&title_color=00e6c3&text_color=e8eef7&icon_color=4d8dff" alt="Paper trading" />
   </a>
-</div>
-<div align="center">
-  <a href="https://github.com/vibhuvankrishna/youtube_mate_AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vibhuvankrishna&repo=youtube_mate_AI&theme=transparent&hide_border=true&bg_color=04060c&title_color=00e6c3&text_color=e8eef7&icon_color=4d8dff" alt="Gappy AI" />
-  </a>
-  <a href="https://github.com/vibhuvankrishna/pharmacodynamics_prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vibhuvankrishna&repo=pharmacodynamics_prediction&theme=transparent&hide_border=true&bg_color=04060c&title_color=00e6c3&text_color=e8eef7&icon_color=4d8dff" alt="Drug property DL" />
+  <a href="https://github.com/vibhuvankrishna/MonteCarloPortfolioRiskAnalyzer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vibhuvankrishna&repo=MonteCarloPortfolioRiskAnalyzer&theme=transparent&hide_border=true&bg_color=04060c&title_color=00e6c3&text_color=e8eef7&icon_color=4d8dff" alt="Monte Carlo" />
   </a>
 </div>
 
 <p align="center">
-  <a href="https://vibhuvankrishna.github.io">Full write-ups on the site →</a>
+  <b>Also:</b>
+  <a href="https://github.com/vibhuvankrishna/Polymarket-Whispers">Polymarket Whispers</a> (prediction-market alpha · private research) ·
+  <a href="https://vibhuvankrishna.github.io">full write-ups on the site →</a>
 </p>
 
 ---
@@ -151,5 +148,4 @@ Documenting and hardening the **live Greeks path** — implied vol solve, trader
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00e6c3,4d8dff,b07bff&height=100&section=footer" width="100%" alt="footer" />
 </div>
 
-<!-- still shipping · profile README refresh · 2026-09-15 -->
-
+<!-- profile · independent trader + QR/QD · 2026-09-15 -->
