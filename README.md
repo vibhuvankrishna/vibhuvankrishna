@@ -32,18 +32,23 @@ class QuantDeveloper:
         self.school = "IIT (BHU), Varanasi"
         self.languages = ["Python", "C++", "SQL", "Bash"]
         self.currently = [
-            "real-time options pipelines",
+            "live IV / Greeks engines (BSM + Black-76)",
+            "real-time options pipelines on Kafka + Delta",
             "agentic strategy research (Hermes)",
             "cross-sectional equity QR (AlphaForge)",
         ]
         self.site = "https://vibhuvankrishna.github.io"
 
     def ping(self):
-        print("Thanks for dropping by — building systems where latency and rigor both matter.")
+        print("Thanks for dropping by — still shipping: latency, pricing rigor, and clean systems.")
 
 me = QuantDeveloper()
 me.ping()
 ```
+
+### Right now
+
+Documenting and hardening the **live Greeks path** — implied vol solve, trader-unit conventions, and the BSM vs Black-76 split for index vs crude — so the math stays explainable while the pipe stays fast.
 
 - **QuantSingularity** — live Nifty / Bank Nifty / Crude ingest, Kafka–Redpanda bus, Delta Lake, IV/Greeks engine (p50 **8 → 0.9 ms**)
 - **SWTS** — client OMS + OOP options backtester; **6B-row** runtime **26 → 6 min (~76%)**
@@ -146,5 +151,5 @@ me.ping()
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00e6c3,4d8dff,b07bff&height=100&section=footer" width="100%" alt="footer" />
 </div>
 
-<!-- quiet note: still shipping, 2026-09-14 -->
+<!-- still shipping · profile README refresh · 2026-09-15 -->
 
