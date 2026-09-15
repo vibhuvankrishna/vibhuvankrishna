@@ -35,7 +35,7 @@ class QuantResearcherDeveloper:
         self.languages = ["Python", "C++", "SQL", "Bash"]
         self.currently = [
             "systematic trading + quant research",
-            "regime detection research (HMM / BOCPD / XGBoost)",
+            "QS regime literature survey (application / evaluation)",
             "cross-sectional equity QR (AlphaForge)",
             "live IV / Greeks engines (BSM + Black-76)",
         ]
@@ -52,7 +52,7 @@ me.ping()
 
 Systematic independent trader, experienced with quant firms — shipping **regime research** at QuantSingularity (with Prof. Shashi Jain, IISc), **AlphaForge** cross-sectional signals, and the **live IV / Greeks** path (BSM + Black-76) that keeps option books honest.
 
-- **QuantSingularity** — QR on regimes · earlier Data Eng: live Nifty / Bank Nifty / Crude, Kafka–Redpanda, Delta Lake, IV/Greeks (**p50 8 → 0.9 ms**)
+- **QuantSingularity** — QR on regimes: literature survey on *using* detectors (allocation, options, India VIX) and whether evaluation includes realistic frictions · earlier Data Eng: live Nifty / Bank Nifty / Crude, Kafka–Redpanda, Delta Lake, IV/Greeks (**p50 8 → 0.9 ms**)
 - **SWTS** — client OMS + options backtester; **6B-row** runtime **26 → 6 min (~76%)**
 - **IIT BHU** — Quant Club lead (Quant League **5th globally**, Q4 2024) · Research Club tech lead
 
@@ -149,4 +149,4 @@ Systematic independent trader, experienced with quant firms — shipping **regim
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00e6c3,4d8dff,b07bff&height=100&section=footer" width="100%" alt="footer" />
 </div>
 
-<!-- profile · systematic independent trader · quant firms · QR/QD · 2026-09-15 -->
+<!-- profile · systematic independent trader · QS regime survey · 2026-09-16 -->
