@@ -51,6 +51,14 @@ class QuantResearcherDeveloper:
 
 ---
 
+## Best Performance
+
+| Metric | Result | Why it matters |
+|--------|--------|----------------|
+| **ICIR** | **0.12** | Built an alpha with ICIR **0.12** — exceptional signal quality in cross-sectional research (stable predictive edge, not a one-off IC spike) |
+
+---
+
 ## Focus areas
 
 - **Trading / research** — BSM & Black-76, IV & Greeks, vol smile/skew, factor signals, walk-forward, Monte Carlo risk
@@ -105,6 +113,10 @@ class QuantResearcherDeveloper:
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vibhuvankrishna&bg_color=04060c&color=00e6c3&line=4d8dff&point=b07bff&area=true&hide_border=true&custom_title=Contribution%20graph" width="100%" alt="activity graph" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vibhuvankrishna/vibhuvankrishna/output/github-contribution-grid-snake-dark.gif" alt="snake eating contribution calendar" width="100%" />
 </div>
 
 ---
