@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://vibhuvankrishna.github.io"><img src="https://img.shields.io/badge/Website-vibhuvankrishna.github.io-00e6c3?style=flat-square&logo=githubpages&logoColor=white" alt="website" /></a>
-  <a href="https://vibhuvankrishna.github.io/Quant_Researcher_Resume.pdf"><img src="https://img.shields.io/badge/Resume-Quant%20Researcher-4d8dff?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="qr resume" /></a>
+  <a href="https://vibhuvankrishna.github.io/Vibhuvan_Krishna_IIT_BHU_QuantResearch_Resume.pdf"><img src="https://img.shields.io/badge/Resume-Quant%20Researcher-4d8dff?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="qr resume" /></a>
   <a href="https://vibhuvankrishna.github.io/Quant_Developer_Resume.pdf"><img src="https://img.shields.io/badge/Resume-Quant%20Developer-b07bff?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="qd resume" /></a>
   <a href="mailto:vibhuvankrishna@gmail.com"><img src="https://img.shields.io/badge/Email-gmail-00e6c3?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
   <a href="https://www.linkedin.com/in/vibhuvan-krishna-konatala-38b564315/"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
@@ -47,7 +47,7 @@ class QuantResearcherDeveloper:
 | **SWTS** | Client OMS + options backtester · **6B-row** runtime **26 → 6 min (~76%)** |
 | **IIT BHU** | Quant Club lead · Quant League **5th globally** (Q4 2024) · Research Club tech lead |
 
-**Resumes:** [Quant Researcher](https://vibhuvankrishna.github.io/Quant_Researcher_Resume.pdf) · [Quant Developer](https://vibhuvankrishna.github.io/Quant_Developer_Resume.pdf) · [Website](https://vibhuvankrishna.github.io)
+**Resumes:** [Quant Researcher](https://vibhuvankrishna.github.io/Vibhuvan_Krishna_IIT_BHU_QuantResearch_Resume.pdf) · [Quant Developer](https://vibhuvankrishna.github.io/Quant_Developer_Resume.pdf) · [Website](https://vibhuvankrishna.github.io)
 
 ---
 
