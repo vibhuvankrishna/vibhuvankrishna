@@ -39,7 +39,7 @@ class QuantResearcherDeveloper:
         return "Research -> price -> execute. Still shipping that loop."
 ```
 
-**Right now:** regime research at QuantSingularity (with Prof. Shashi Jain, IISc), **AlphaForge** cross-sectional signals, and the live **IV / Greeks** path that keeps option books honest.
+**Right now:** regime research at QuantSingularity (with Prof. Shashi Jain, IISc), **Trexquant** competition alpha research, **AlphaForge** cross-sectional signals, and the live **IV / Greeks** path that keeps option books honest.
 
 | Lens | Highlights |
 |------|------------|
@@ -56,6 +56,7 @@ class QuantResearcherDeveloper:
 | Metric | Result | Why it matters |
 |--------|--------|----------------|
 | **ICIR** | **0.12** | Built an alpha with ICIR **0.12** — exceptional signal quality in cross-sectional research (stable predictive edge, not a one-off IC spike) |
+| **Trexquant Alpha Competition** | **8th overall · 6th out-of-sample** | Among 500 handpicked candidates from across the IITs; 27 alphas submitted, top IR **1.2**, correlation **<0.5** with the competition pool, and **31.4%** VWAP IR improvement |
 
 ---
 
@@ -75,6 +76,7 @@ class QuantResearcherDeveloper:
 
 | Project | What it is |
 |---------|------------|
+| [**Trexquant Alpha Competition**](https://github.com/vibhuvankrishna/Trexquant_Competition_Results) | US equity market-neutral alpha research · **8th overall / 6th OOS** among 500 candidates · 27 alphas · top IR **1.2** · VWAP IR **+31.4%** |
 | [**AlphaForge**](https://github.com/vibhuvankrishna/AlphaForge) | Cross-sectional equity QR · Rank IC ≈ 0.021 (OLS) · survivorship-safe 2010 universe |
 | [**Alpha Assembly Line**](https://github.com/vibhuvankrishna/Alpha-Assembly-line) | Agentic strategy research · OOS Sharpe 1.2 / Sortino 2.6 |
 | [**Paper trading engine**](https://github.com/vibhuvankrishna/paper_trading_engine) | Nifty / Bank Nifty options execution stack + simulator |
@@ -82,6 +84,9 @@ class QuantResearcherDeveloper:
 | [**Polymarket Whispers**](https://github.com/vibhuvankrishna/Polymarket-Whispers) | Prediction-market alpha (private research) · IC ≈ 0.037 on VIX |
 
 <div align="center">
+  <a href="https://github.com/vibhuvankrishna/Trexquant_Competition_Results">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vibhuvankrishna&repo=Trexquant_Competition_Results&theme=transparent&hide_border=true&bg_color=04060c&title_color=00e6c3&text_color=e8eef7&icon_color=4d8dff" alt="Trexquant Alpha Competition results" />
+  </a>
   <a href="https://github.com/vibhuvankrishna/AlphaForge">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vibhuvankrishna&repo=AlphaForge&theme=transparent&hide_border=true&bg_color=04060c&title_color=00e6c3&text_color=e8eef7&icon_color=4d8dff" alt="AlphaForge" />
   </a>
